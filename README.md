@@ -1,1 +1,0 @@
-# deleting-last-node-of-a-linked-list.cpp
